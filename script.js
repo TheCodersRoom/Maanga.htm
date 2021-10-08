@@ -1,5 +1,5 @@
 <script>
 
-document.getElementById("demos").innerHTML = "welcome to JavaScript!";
+document.getElementById("demos").innerHTML = "welcome to JavaScript!!";
 
 </script>
