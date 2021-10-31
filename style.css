@@ -1,6 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+#heading{
+    color: white;
+    background-color: 	#00008b;
+    text-align: center;
+}
+#first_doc{
+    padding: auto;
+    margin: 0%;
+    background-color: cadetblue;
+    mask-position: 200px;
+}
+#list_below{
+    padding-left: 20px;
+    background-color: darkmagenta;
+}
 
-
-h1 { color : blue }
+/* h1 { color : blue }
 html{
     border: dotted;
 }
@@ -60,9 +79,5 @@ table, th, td {
     }
 p{
     margin:35px;
-}
+} */
 
-<h1 style="color:pink;">A RED HEADING</h1>
- ma
-
-<p style="color:rlblack;">A GREEN PARAGRAPH</p>
